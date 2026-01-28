@@ -1,0 +1,8 @@
+# IDE
+.claude
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
